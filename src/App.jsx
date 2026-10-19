@@ -22,6 +22,8 @@ const skillGroups = [
       'Power BI',
       'Tableau',
       'Python',
+      'R',
+      'Qgis',
       'C',
       'C++',
       'Java',
